@@ -3,6 +3,7 @@ title:          Genie
 description:    ""
 baseurl:        ""
 url:            "https://ijinkyung.github.io"
+published: true
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
@@ -39,3 +40,4 @@ exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
 # Disqus (Set to your disqus id)
 disqus:         jekyll-tale
+future: true
